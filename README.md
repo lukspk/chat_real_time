@@ -1,4 +1,4 @@
-# chat_real_time
+# Chat em Tempo Real
 Chat em tempo real desenvolvido com uso de Node js e Socket.Io
 
 ### Utilização
